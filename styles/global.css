@@ -10,10 +10,11 @@ body {
 
 * {
   box-sizing: border-box;
+  background-color: rgb(147, 129, 226);
 }
 
 a {
-  color: #0070f3;
+  color: #b48fc5;
   text-decoration: none;
 }
 
@@ -24,4 +25,5 @@ a:hover {
 img {
   max-width: 100%;
   display: block;
+  opacity: 40%;
 }
